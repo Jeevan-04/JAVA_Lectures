@@ -1,0 +1,13 @@
+path_to_parent_directory
+  |_ _14AUG
+      |_ P1
+          |_ A1.class
+      |_ P2
+          |_ B1.class
+
+
+
+pwd
+javac _14AUG/P1/A1.java _14AUG/P2/B1.java
+java _14AUG.P2.B1
+
